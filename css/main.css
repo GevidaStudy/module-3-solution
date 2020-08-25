@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Light.ttf') format('woff2'),
+        url('../fonts/Montserrat-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Black.ttf') format('woff2'),
+        url('../fonts/Montserrat-Black.woff') format('woff');
+    font-weight: bold;
+    font-style: bold;
+}
+
+body{
+    background: whitesmoke;
+    font-family: Montserrat;
+}
+h1{
+    font-family: Montserrat;
+    font-weight: bold;
+}
+h4{
+    font-weight: 500;
+}
